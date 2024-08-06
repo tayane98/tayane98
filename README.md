@@ -1,4 +1,14 @@
-## tayane
+## Tayane here are some ideas to get you started:
+
+- 🔭 I’m currently working on home
+- 🌱 I’m currently learning alura
+- 👯 I’m looking to collaborate on ...
+- 🤔 I’m looking for help with ...
+- 💬 Ask me about como ter uma pronuncia sofisticada
+- 📫 How to reach me: por ligaçoes se for urgente
+- 😄 Pronouns: ela, dela
+- ⚡ Fun fact: gosto de etiqueta
+
 
 <!--
 **tayane98/tayane98** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
